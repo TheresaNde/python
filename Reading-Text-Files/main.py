@@ -18,4 +18,4 @@ def count_words():
             sorer[i] = 1
     return sorer 
 print(count_words())
-count_words()
+count_words() 
